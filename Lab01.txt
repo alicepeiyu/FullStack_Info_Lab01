@@ -1,0 +1,9 @@
+1.​​Change Directory: cd <directory>
+2.​​Create a Directory: mkdir <directory>
+3.​​Rename a Directory: mv <old> <new>
+4.​​List the contents of a directory: ls -la/ ls
+5.​​Move a file to a new location: mv <file> <directory>
+6.​​Copy a file to a new location: cp <file> <directory>
+7.​​Search for a string in a file: grep "<text>" <file>
+8.​​Access the shell of a remote machine: ssh <username>@<host>
+9.​​Remove a directory folder: rm -r <directory>
